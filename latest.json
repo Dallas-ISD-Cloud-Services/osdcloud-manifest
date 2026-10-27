@@ -1,6 +1,6 @@
 {
-  "latest": "26.10.16.3",
-  "minimum": "26.10.16.3",
+  "latest": "26.10.16.2",
+  "minimum": "26.10.16.2",
   "message": "New OSDCloud media released 10/26/2026 - DISDGLOBAL Wi-Fi in WinPE, Delinea fix, Central time zone.",
   "download": "Edtech Support Standard Image > OSDCloud > 2026.10-OSDCLOUD-V26.10.16.2",
   "webhook": ""
